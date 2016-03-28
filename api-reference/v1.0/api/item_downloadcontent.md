@@ -13,7 +13,7 @@ One of the following **scopes** is required to execute this API:
 <!-- { "blockType": "ignored" } -->
 ```http
 GET /drive/items/{item-id}/content
-GET /drive/root:/{item-path and filename}:/content
+GET /drive/root:/{item-pathandfilename}:/content
 ```
 
 ### Request headers
